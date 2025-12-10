@@ -86,7 +86,7 @@ The cleaned results were stored in a new DataFrame named df_clean
 
 ▶️ How to Run the Project
 
-Clone the repository:
+Clone the repository: https://github.com/JoaoPSPacolla/Sales-Analysis-with-Pandas-and-Matplotlib.git
 
 *  git clone 
 
